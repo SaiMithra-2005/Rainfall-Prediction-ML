@@ -1,7 +1,7 @@
 # 🌧 Rainfall Prediction System
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/SaiMithra-2005/Rainfall-Prediction-ML/blob/main/Rainfall_Prediction_using_Machine_Learning_Python (3).ipynb)
+(https://colab.research.google.com/github/SaiMithra-2005/Rainfall-Prediction-ML/blob/main/Rainfall_Prediction.ipynb)
 
 ## 📌 Overview
 This project predicts rainfall using machine learning techniques based on historical weather data.
